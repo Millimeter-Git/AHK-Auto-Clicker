@@ -1,6 +1,6 @@
 # AHK Auto Clicker
-* Free and Simple
-* Written by AutoHotkey
+* Free and Simple.
+* Written by AutoHotkey.
 ## Usage
 * F2: Add to playlist.
 * F3: Play.
