@@ -6,7 +6,7 @@
 * F3: Play.
 * F4: Stop.
 * Right-Click menu: clear and clear all items in playlist; save and open playlist.
-* Suport drop files.
+* Support drop files.
 ## Image
 <img align="center" src="https://i.imgur.com/dK6cBcv.png"/>
 
